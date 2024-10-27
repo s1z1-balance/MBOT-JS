@@ -1,0 +1,9 @@
+{
+    "numberOfBots": 2,
+    "targetX": 50,
+    "targetY": 64,
+    "targetZ": 50,
+    "playerName": "s1z1_", 
+    "followRadius": 10,
+    "minDistance": 2
+}
